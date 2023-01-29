@@ -136,13 +136,13 @@ Simple and relax with play area.
 ```
 
 ## Output:
-![Output](./screenshot/out1.png)
+![Output](./screenshot/out1.jpeg)
 
-![Output](./screenshot/out2.png)
+![Output](./screenshot/out2.jpeg)
 
-![Output](./screenshot/out3.png)
+![Output](./screenshot/out3.jpeg)
 
-![Output](./screenshot/out4.png)
+![Output](./screenshot/out4.jpeg)
 
 ## HTML Validator:
 ![HTML Validator](./screenshot/valid.png)
